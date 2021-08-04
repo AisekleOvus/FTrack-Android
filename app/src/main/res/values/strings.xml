@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FTrack</string>
+    <string name="version">1.0a</string>
+    <string name="network">Network is</string>
+    <string name="gps">GPS is</string>
+    <string name="switcher">Switch On Tracker</string>
+</resources>
